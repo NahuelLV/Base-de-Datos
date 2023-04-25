@@ -4,7 +4,7 @@
 
 
 int main(void) {
-	printf("Hola MUndo, vida de mierda");
+	printf("Hola Mundo,Como estan?");
 
 	return 0;
 

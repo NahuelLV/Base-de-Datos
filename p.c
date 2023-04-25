@@ -4,7 +4,8 @@
 
 
 int main(void) {
-	printf("Hola Mundo,Como estan?");
+	printf("Hola Mundo");
+
 
 	return 0;
 

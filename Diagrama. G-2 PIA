@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T01:36:08.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GxH4oYcazLBW3aLMJTR5" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T01:40:33.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gRnn1wb737BQ1bzXNaCC" version="21.6.1" type="github">
   <diagram name="Página-1" id="TY0X6MxnQ_MRqpMmpXeY">
     <mxGraphModel dx="2876" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8fcYkI0Nf2zg7lthghCk-24" value="CLIENTES" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="170" y="910" width="140" height="240" as="geometry" />
+          <mxGeometry x="170" y="910" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="8fcYkI0Nf2zg7lthghCk-25" value="-ID_Cliente (PK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8fcYkI0Nf2zg7lthghCk-24" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -88,11 +88,8 @@
         <mxCell id="8fcYkI0Nf2zg7lthghCk-29" value="-Ciudad" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8fcYkI0Nf2zg7lthghCk-24" vertex="1">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8fcYkI0Nf2zg7lthghCk-30" value="-Tarjetas" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8fcYkI0Nf2zg7lthghCk-24" vertex="1">
-          <mxGeometry y="180" width="140" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="8fcYkI0Nf2zg7lthghCk-31" value="-COD_Sucursal (FK)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8fcYkI0Nf2zg7lthghCk-24" vertex="1">
-          <mxGeometry y="210" width="140" height="30" as="geometry" />
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8fcYkI0Nf2zg7lthghCk-32" value="COMPRA" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="192.5" y="770" width="95" height="60" as="geometry" />

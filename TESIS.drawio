@@ -1,11 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T17:47:54.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TrktSb21i6N8eWWy63dx" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T19:05:49.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lkYegdDq4_M2XK-1hmEB" version="24.2.5" type="github">
   <diagram name="Página-1" id="q87BiIpikEZuB7U_goR0">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7NWND6y4SpeGCh8oB7Ho-5" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="147" y="193" width="80" height="80" as="geometry" />
+        <mxCell id="7NWND6y4SpeGCh8oB7Ho-7" value="EMPLEADOS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="103" y="66" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7NWND6y4SpeGCh8oB7Ho-10" value="&lt;div&gt;id_empleado (PK)&lt;/div&gt;&lt;div&gt;nombre&lt;/div&gt;&lt;div&gt;apellido&lt;/div&gt;&lt;div&gt;cargo&lt;/div&gt;&lt;div&gt;salario&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="7NWND6y4SpeGCh8oB7Ho-7">
+          <mxGeometry y="30" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7NWND6y4SpeGCh8oB7Ho-11" value="CLIENTES" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="445" y="69" width="140" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="7NWND6y4SpeGCh8oB7Ho-14" value="&lt;div&gt;id_cliente (PK)&lt;/div&gt;&lt;div&gt;nombre&lt;/div&gt;&lt;div&gt;apellido&lt;/div&gt;&lt;div&gt;dirección&lt;/div&gt;&lt;div&gt;teléfono&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="7NWND6y4SpeGCh8oB7Ho-11">
+          <mxGeometry y="30" width="140" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

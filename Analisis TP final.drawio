@@ -89,16 +89,16 @@
           <mxGeometry x="132" y="795" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PaemTn16cb9oj95XPDvz-16" value="Responsable" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="40" y="850" width="80" height="50" as="geometry" />
+          <mxGeometry x="25" y="820" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PaemTn16cb9oj95XPDvz-17" value="ID_Tarea" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="144" y="870" width="88" height="50" as="geometry" />
+          <mxGeometry x="116" y="870" width="88" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PaemTn16cb9oj95XPDvz-18" value="Descripcion" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry y="780" width="80" height="50" as="geometry" />
+          <mxGeometry x="30" y="740" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PaemTn16cb9oj95XPDvz-19" value="Fecha" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="77" y="720" width="80" height="50" as="geometry" />
+          <mxGeometry x="130" y="710" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PaemTn16cb9oj95XPDvz-22" value="Peliculas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="560" y="810" width="100" height="50" as="geometry" />
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="PaemTn16cb9oj95XPDvz-28" value="Clasificacion" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="694" y="870" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PaemTn16cb9oj95XPDvz-29" value="ID_Sucursal" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="232" y="870" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

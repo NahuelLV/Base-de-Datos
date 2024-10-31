@@ -71,19 +71,19 @@
           <mxGeometry x="80" y="450" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PaemTn16cb9oj95XPDvz-9" value="Cantidad" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="420" width="80" height="50" as="geometry" />
+          <mxGeometry x="-10" y="380" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PaemTn16cb9oj95XPDvz-10" value="ID_VentaComida" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="157" y="550" width="110" height="50" as="geometry" />
+          <mxGeometry x="105" y="540" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PaemTn16cb9oj95XPDvz-11" value="Total" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-52" y="500" width="80" height="50" as="geometry" />
+          <mxGeometry x="-50" y="460" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PaemTn16cb9oj95XPDvz-12" value="Fecha" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="25" y="360" width="80" height="50" as="geometry" />
+          <mxGeometry x="95" y="370" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PaemTn16cb9oj95XPDvz-13" value="ID_VentaComida" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="25" y="560" width="110" height="50" as="geometry" />
+          <mxGeometry x="-15" y="540" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PaemTn16cb9oj95XPDvz-15" value="Tarea_Limpeaza" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="132" y="795" width="100" height="50" as="geometry" />

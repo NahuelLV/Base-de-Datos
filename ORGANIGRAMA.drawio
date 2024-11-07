@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Página-1" id="1JRPIV7WGd91sIn-pRir">
-    <mxGraphModel>
+    <mxGraphModel dx="784" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mKxBOqEnbxrsm3muFIDF-4" value="Empleado_Boleteria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mKxBOqEnbxrsm3muFIDF-5" value="Sucursal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="241" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mKxBOqEnbxrsm3muFIDF-6" value="Empleado_Consumibles" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="414" y="430" width="135.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mKxBOqEnbxrsm3muFIDF-7" value="Empleado_Mantenimiento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="142" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mKxBOqEnbxrsm3muFIDF-9" value="Venta_Comida" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="50" y="550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mKxBOqEnbxrsm3muFIDF-10" value="Venta_Entradas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="241" y="550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mKxBOqEnbxrsm3muFIDF-11" value="Tarea_Limpeaza" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="431.75" y="550" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mKxBOqEnbxrsm3muFIDF-12" value="Peliculas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="241" y="660" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

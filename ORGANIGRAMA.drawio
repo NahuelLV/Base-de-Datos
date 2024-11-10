@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Página-1" id="1JRPIV7WGd91sIn-pRir">
-    <mxGraphModel dx="1862" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2689" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -386,6 +386,82 @@
             <mxPoint x="-170" y="1540" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-120" y="1500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-71" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;u&gt;Diagrama de Flujo de Venta de Entradas&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-905" y="880" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-72" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-766" y="950" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-73" value="Quieres realizar una venta?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-786" y="1020" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-74" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-73" target="5BYPhWz-IlU3PaMKEk_R-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-880" y="1060" as="sourcePoint" />
+            <mxPoint x="-830" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-75" value="FIN" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-805" y="1480" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-76" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-75" target="5BYPhWz-IlU3PaMKEk_R-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-900" y="1170" as="sourcePoint" />
+            <mxPoint x="-850" y="1120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-855" y="1500" />
+              <mxPoint x="-860" y="1065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-77" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="1038" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-78" value="SI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-675" y="1038" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-79" value="Ingreso los datos(producto y cantidad vendida)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-674" y="1109" width="116" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-80" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-79" target="5BYPhWz-IlU3PaMKEk_R-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-750" y="1210" as="sourcePoint" />
+            <mxPoint x="-700" y="1160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-616" y="1065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-81" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="5BYPhWz-IlU3PaMKEk_R-79" source="5BYPhWz-IlU3PaMKEk_R-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-616" y="1190" as="sourcePoint" />
+            <mxPoint x="-750" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-86" value="Entregamos el ticket" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-676" y="1260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-87" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-646" y="1400" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-88" value="Registramos la venta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-575" y="1425" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-90" value="" style="endArrow=none;html=1;rounded=0;entryX=0.501;entryY=0.876;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-87" target="5BYPhWz-IlU3PaMKEk_R-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-735" y="1480" as="sourcePoint" />
+            <mxPoint x="-685" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-91" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-75" target="5BYPhWz-IlU3PaMKEk_R-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-715" y="1590" as="sourcePoint" />
+            <mxPoint x="-665" y="1540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-615" y="1500" />
             </Array>
           </mxGeometry>
         </mxCell>

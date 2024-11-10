@@ -294,7 +294,7 @@
         <mxCell id="5BYPhWz-IlU3PaMKEk_R-23" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-271" y="950" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5BYPhWz-IlU3PaMKEk_R-24" value="&amp;nbsp;Quiere&lt;div&gt;&amp;nbsp;ingresar una nueva película?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-24" value="Quieres realizar una nueva venta?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-291" y="1020" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5BYPhWz-IlU3PaMKEk_R-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-24" target="5BYPhWz-IlU3PaMKEk_R-23">

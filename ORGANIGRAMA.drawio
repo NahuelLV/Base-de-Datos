@@ -279,23 +279,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5BYPhWz-IlU3PaMKEk_R-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-18" target="5BYPhWz-IlU3PaMKEk_R-10">
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="5BYPhWz-IlU3PaMKEk_R-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1234" y="1170" as="sourcePoint" />
+            <mxPoint x="1235.9999999999995" y="1217.9999999999998" as="sourcePoint" />
             <mxPoint x="1100" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5BYPhWz-IlU3PaMKEk_R-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.483;entryY=0.775;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-6" target="5BYPhWz-IlU3PaMKEk_R-18">
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.483;entryY=0.775;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1160" y="1480" as="sourcePoint" />
-            <mxPoint x="1234" y="1350" as="targetPoint" />
+            <mxPoint x="1233.96" y="1280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1234" y="1380" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5BYPhWz-IlU3PaMKEk_R-18" value="Registramos la tarea una vez terminada" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1176" y="1218" width="120" height="80" as="geometry" />
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-20" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="1218" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-21" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Registramos la tarea una vez terminada&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1238" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

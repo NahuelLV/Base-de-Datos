@@ -294,7 +294,7 @@
         <mxCell id="5BYPhWz-IlU3PaMKEk_R-23" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-271" y="950" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5BYPhWz-IlU3PaMKEk_R-24" value="Quieres realizar una nueva venta?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-24" value="Quieres realizar una venta?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-291" y="1020" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5BYPhWz-IlU3PaMKEk_R-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-24" target="5BYPhWz-IlU3PaMKEk_R-23">
@@ -334,35 +334,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5BYPhWz-IlU3PaMKEk_R-32" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-151" y="1190" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="5BYPhWz-IlU3PaMKEk_R-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-32" target="5BYPhWz-IlU3PaMKEk_R-30">
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="5BYPhWz-IlU3PaMKEk_R-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-305" y="1230" as="sourcePoint" />
+            <mxPoint x="-121" y="1190" as="sourcePoint" />
             <mxPoint x="-255" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5BYPhWz-IlU3PaMKEk_R-34" value="Subir a la BD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="1198" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5BYPhWz-IlU3PaMKEk_R-35" value="Determinar los horarios de las funciones" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="-179" y="1310" width="116" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="5BYPhWz-IlU3PaMKEk_R-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-35" target="5BYPhWz-IlU3PaMKEk_R-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-275" y="1330" as="sourcePoint" />
-            <mxPoint x="-225" y="1280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5BYPhWz-IlU3PaMKEk_R-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-26" target="5BYPhWz-IlU3PaMKEk_R-35">
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5BYPhWz-IlU3PaMKEk_R-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-195" y="1500" as="sourcePoint" />
-            <mxPoint x="-145" y="1450" as="targetPoint" />
+            <mxPoint x="-121" y="1370" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-121" y="1400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5BYPhWz-IlU3PaMKEk_R-39" value="Quieres realizar otra &lt;span style=&quot;background-color: initial;&quot;&gt;venta?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-176" y="1188" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

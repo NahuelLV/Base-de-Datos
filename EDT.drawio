@@ -11,7 +11,10 @@
           <mxGeometry x="80" y="100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LdpsMXCyF87fGuo_lv39-3" value="Realidad Aumentada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="220" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LdpsMXCyF87fGuo_lv39-4" value="Investigacion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

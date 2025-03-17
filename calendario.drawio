@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Página-1" id="ssY0a-lsV6pVMud-pwid">
-    <mxGraphModel dx="926" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1760" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,14 +182,8 @@
         <mxCell id="2XEeb3x4QMcPgkgz6Vr9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2XEeb3x4QMcPgkgz6Vr9-19" target="2XEeb3x4QMcPgkgz6Vr9-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2XEeb3x4QMcPgkgz6Vr9-56" value="SEGUNDOS != 60" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1190" width="310" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="2XEeb3x4QMcPgkgz6Vr9-66" value="S == 59?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="2XEeb3x4QMcPgkgz6Vr9-56">
-          <mxGeometry x="47" y="50" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2XEeb3x4QMcPgkgz6Vr9-68" value="S++" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="2XEeb3x4QMcPgkgz6Vr9-56">
-          <mxGeometry x="200" y="70" width="60" height="20" as="geometry" />
+        <mxCell id="2XEeb3x4QMcPgkgz6Vr9-56" value="AÑO := 0" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1190" width="780" height="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
